@@ -1,0 +1,6 @@
+matplotlib
+seaborn
+pandas
+
+# You can check your installed versions using:
+# <pip show matplotlib seaborn pandas>
